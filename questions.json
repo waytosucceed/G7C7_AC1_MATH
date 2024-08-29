@@ -1,0 +1,55 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "If Grace has 3/8 of a bag of candies and John has 2/8 of a bag of candies, whose bag has more candies?",
+        "options": [
+            "John",
+            "Grace",
+            "Can not determine",
+            "Both are equal"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q2",
+        "question": "Order the fractions from smallest to largest: 5/10, 5/7, 5/8",
+        "options": [
+            "5/10, 5/8, 5/7",
+            "5/7, 5/8, 5/10",
+            "5/8, 5/10, 5/7",
+            "None of the above"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q3",
+        "question": "Are the following pair of fractions equivalent to each other? 45 = 16/25",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q4",
+        "question": "Which fraction is equivalent to 7/14?",
+        "options": [
+            "1/2",
+            "3/7",
+            "4/9",
+            "5/8"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q5",
+        "question": "Identify the like fractions from the following options:",
+        "options": [
+            "11/48 and 13/78",
+            "15/67 and 11/76",
+            "13/91 and 15/27",
+            "12/37 and 13/37"
+        ],
+        "correct": 3
+    }
+]
